@@ -80,7 +80,7 @@ nav {
     margin-bottom: 0;
     margin-top: 38px;
     color: #222222;
-    font-size: 38px;
+    font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
@@ -102,6 +102,16 @@ nav {
     height: 40px;
     background-color: #1eacc7;
     border-radius: 100%;
+}
+
+.begin .round_cell {
+    width: 50px;
+    align-items: center;
+}
+
+.begin .text_cell {
+    width: 350px;
+    text-align: left;
 }
 
 .begin .begin_item_text {
